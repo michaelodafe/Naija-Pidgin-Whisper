@@ -1,0 +1,38 @@
+# secrets
+.env
+.env.local
+.env.*.local
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# data + model artifacts (regenerate from scripts; keep repo light)
+data/*
+!data/.gitkeep
+infer/whisper-pidgin-ct2/
+infer/_merged/
+infer/_merged_torch/
+*.wav
+*.mp3
+*.flac
+*.bin
+*.safetensors
+*.ckpt
+*.pt
+*.arpa
+*.arrow
+
+# logs
+*.log
+fetch.log
+
+# editor / OS
+.DS_Store
+.idea/
+.vscode/
+.cursor/

@@ -1,0 +1,14 @@
+datasets>=2.20.0,<4.0
+transformers>=4.45.0
+huggingface_hub>=0.25.0
+librosa>=0.10.2
+soundfile>=0.12.1
+numpy>=1.26
+python-dotenv>=1.0.1
+tqdm>=4.66
+
+torch>=2.2
+peft>=0.13
+faster-whisper>=1.0
+sounddevice>=0.4
+silero-vad>=5.1
