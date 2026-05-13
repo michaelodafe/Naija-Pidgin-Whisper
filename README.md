@@ -19,7 +19,7 @@ using a free GPU and a single fine-tuning run.
 ## Links
 
 - 🤗 **Model:** [michaelodafe/whisper-pidgin-v1](https://huggingface.co/michaelodafe/whisper-pidgin-v1) (LoRA adapter, 26 MB)
-- 🎤 **Demo Space:** _coming soon_ — try it in your browser
+- 🎤 **Demo Space:** [try it in your browser](https://huggingface.co/spaces/michaelodafe/pidgin-whisper)
 - 📦 **Dataset:** [michaelodafe/pidgin-asr-combined](https://huggingface.co/datasets/michaelodafe/pidgin-asr-combined) (~8.6 h, combined from public Pidgin sources)
 - 📖 **Full design notes:** [documentation.md](documentation.md)
 
